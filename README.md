@@ -39,4 +39,4 @@ Implemented SQL queries for:
 - Dashboard Screenshots
 
 ## Author
-Satyam Tripathi
+Satyam Kumar Tripathi
